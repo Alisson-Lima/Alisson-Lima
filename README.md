@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Credgroup (Alisson Lima)
+# 👋 Hi, I’m Alisson Lima
 
 Welcome to my GitHub! I’m a passionate **Frontend Developer** dedicated to building tech solutions that improve and help people’s lives.
 
